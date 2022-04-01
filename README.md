@@ -1,1 +1,236 @@
 # 9jahotblog.github.io-
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: "Lato", sans-serif;
+}
+
+.sidenav {
+  height: 100%;
+  width: 0;
+  position: fixed;
+  z-index: 1;
+top: 0;
+  left: 0;
+  background-color: #111;
+  overflow-x: hidden;
+  transition: 0.5s;
+  padding-top: 60px;
+}
+
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: #818181;
+  display: block;
+  transition: 0.3s;
+}
+
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+sidenav .closebtn {
+  position: absolute;
+  top: 0;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}
+  .sidenav a {font-size: 18px;}
+}
+</style>
+</head>
+<body>
+
+<div id="mySidenav" class="sidenav">
+<img src="https://i.postimg.cc/rFpQ7bMM/Ephoto360-com-16219090b89a51.jpg" width="250" height="250">
+       <p style="color:#0000FF">WELCOME TO 9JA HOTBLOG</a>
+  <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+  <a href="https://9jahotblog.github.io">Home</a>
+  <a href="#">Entertainment</a>
+  <a href="#">Sports</a>
+  <a href="#">WWE</a>
+  <a href="#">Education</a>
+  <a href="#">About Us</a>
+  <a href="#">Contact Us</a>
+  <a href="pp.html">Privacy Policy</a>
+</div>
+
+ 
+<span style="font-size:30px;cursor:pointer" onclick="openNav()">&#9776; </span>
+
+<script>
+function openNav() {
+  document.getElementById("mySidenav").style.width = "250px";
+}
+
+function closeNav() {
+  document.getElementById("mySidenav").style.width = "0";
+}
+</script>
+   </body>
+</html> 
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Entertainment, Lifestyle & Education</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<style>
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+</style>
+</head>
+<body class="w3-light-grey">
+
+<!-- w3-content defines a container for fixed size centered content, 
+and is wrapped around the whole page content, except for the footer in this example -->
+<div class="w3-content" style="max-width:1400px">
+
+
+<!-- Header -->
+<header class="w3-container w3-center w3-padding-32"> 
+  <h1><b>9JAHOT BLOG</b></h1>
+  <p>Welcome to the <span class="w3-tag">Hottest Blog🇳🇬</span></p>
+</header>
+
+<!-- Grid -->
+<div class="w3-row">
+<!-- Blog entries -->
+<div class="w3-col l8 s12">
+  <!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+    <img src="https://i.postimg.cc/d1kdrLkx/FB-IMG-1648751901570.jpg" alt="9jahotblog" style="width:100%">
+    <div class="w3-container">
+      <h3><b>Will Smith Slaps Chris Rock</b></h3>
+      <h5>Uploaded on <span class="w3-opacity">March 28, 2022</span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p> Following the host of the Oscars award 2022 by the 94th Academy Awards. American actor "Will Smith" hit Chris rock due to the mockery of the shaved hair of Will's wife "Jade Pinkett Smith" will was angered by this expensive joke of Chris
+Who said... <p style="color:#0000FF">"Jada I love you, GI Jane 2 can't wait to see you"</p> Referring to Jada's shaved head. G.I. Jane is a 1997 American film starring Demi Moore (Charlies’ Angels: Full Throttle, General Hospital), which tells the fictional story of the first woman to go through special operations training, similar to that of the U.S Navy SEALs.
+ Jada has Alopecia A medical term for loss of hair. 
+Will in his PR wrote he can't joke about his wife medical's condition, this triggered him standing up to slap Chris & headed back to his seat.
+Echoing <p style="color:#0000FF">"Keep my wife's name out your fucking mouth"</p>twice. The laughing crowd became silent including Chris rock who was laughing at first.
+Chris silently whispered <p style="color:#0000FF">This is the greatest night in the history of television..</p>
+<div class="w3-row">
+        <div class="w3-col m8 s12">
+          <p><button class="w3-button w3-padding-large w3-white w3-border"><b>READ MORE »</b></button></p>
+        </div>
+        <div class="w3-col m4 w3-hide-small">
+          <p><span class="w3-padding-large w3-right"><b>Comments  </b> <span class="w3-tag">0</span></span></p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+<!-- Blog entry -->
+  <div class="w3-card-4 w3-margin w3-white">
+  <img src="https://i.postimg.cc/c1Fpb2PB/FB-IMG-1648747391349.jpg" alt="KO at WrestleMania" style="width:100%">
+    <div class="w3-container">
+      <h3><b>Kevin Owens Impersonates Stone Cold</b></h3>
+      <h5> [WrestleMania] Kevin Pisses Stone Cold off after loosing to Riddle & Randy Orton. KO VS STONE COLD AT WRESTLEMANIA. <span class="w3-opacity">March 21st, 2022</span></h5>
+    </div>
+
+    <div class="w3-container">
+      <p> Kevin Owens & Seth Freakin Rollins lost their match against Riddle & Randy Orton. The winner was said to be eligible for this year's WrestleMania. 
+Since KO & Seth lost it was a devastating moment for them. Riddle used the opportunity of Seth & KO at the end of the match, it was a triple threat. {Ko & Rollins}, {Riddle & Randy}, {Shorty G & Otis}.
+KO had gave RKO to Shorty & Seth had included "burn it down", at the moment of counting.... Riddle flipped Rollins outta the ring & took the win. 
+KO had to get another opportunity to go to WrestleMania so he thought Stone Cold was the best way. Ko said.. 
+<p style="color:#0000FF">"There's nobody like me, and Steve Austin obviously knows that," said Owens. "Or maybe it's this unreasonable pride that he's got for Texas. My history with Texas really struck a chord with him. But Steve and I have a lot of history actually. I met him at an airport in 2005 when I was an independent wrestler just trying to make my way. I remember asking him for advice and he gave me a piece of advice that changed the entire trajectory of my career. Years later, I was on his podcast. Some years later, I asked him if he'd be okay with me using the Stunner. He was more than happy to tell me I could, to give me his blessing. So there's a lot of history there and I think it's unfortunate that my issues with Texas seem to have rubbed him the wrong way. But the important part is that he accepted my invitation."</p>
+      <div class="w3-row">
+        <div class="w3-col m8 s12">
+          </a><p><button class="w3-button w3-padding-large w3-white w3-border"><b><a href="#">READ MORE »</b></button></p></a>
+        </div>
+        <div class="w3-col m4 w3-hide-small">
+          <p><span class="w3-padding-large w3-right"><b>Comments  </b> <span class="w3-badge">2</span></span></p>
+</div>
+      </div>
+    </div>
+  </div>
+<!-- END BLOG ENTRIES -->
+</div>
+
+<!-- Introduction menu -->
+<div class="w3-col l4">
+  <!-- About Card -->
+  <div class="w3-card w3-margin w3-margin-top">
+  <img src="https://i.postimg.cc/QtHzGx2g/IMG-20220323-232555-616.jpg" style="width:100%"></a>
+    <div class="w3-container w3-white">
+      <h4><b>Blog Writer</b></h4>
+      <p>Philip Smith√ an Enterpreneur, student & teacher. With the zeal of coding, developing & exploring... </p>
+    </div>
+  </div><hr>
+  
+  <!-- Posts -->
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-padding">
+      <h4>Popular Upcoming Movies Info</h4>
+    </div>
+    <ul class="w3-ul w3-hoverable w3-white">
+      <li class="w3-padding-16">
+        <img src="https://i.postimg.cc/qqYhbQ8X/FB-IMG-1648747888597.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px"> 
+<span class="w3-large">Black Adam</span><br>
+        <span> (Dwayne Johnson) </span>
+      </li>
+      <li class="w3-padding-16">
+        <img src="https://i.postimg.cc/tgC6g1C6/FB-IMG-1648748006901.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">(Sam Worthington, Zoe Saldaña)</span><br>
+        <span>Avatar 2</span>
+      </li> 
+      <li class="w3-padding-16">
+        <img src="https://i.postimg.cc/yNkN508L/FB-IMG-1648748107705.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+   <span class="w3-large">Morbius</span><br>
+        <span>Biochemist Michael Morbius tries to cure himself of a rare blood disease, but when his experiment goes wrong, he inadvertently infects himself with a form of vampirism instead.) </span>
+      </li>   
+      <li class="w3-padding-16 w3-hide-medium w3-hide-small">
+        <img src="/w3images/rock.jpg" alt="Image" class="w3-left w3-margin-right" style="width:50px">
+        <span class="w3-large">Mingsum</span><br>
+        <span>Lorem ipsum dipsum</span>
+      </li>  
+    </ul>
+  </div>
+  <hr> 
+ 
+  <!-- Labels / tags -->
+  <div class="w3-card w3-margin">
+    <div class="w3-container w3-padding">
+      <h4>Tags</h4>
+    </div>
+<div class="w3-container w3-white">
+    <p><span class="w3-tag w3-black w3-margin-bottom">Travel</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">New York</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">London</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">IKEA</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">NORWAY</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">DIY</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Ideas</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Baby</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Family</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">News</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Clothing</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Shopping</span>
+      <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Sports</span> <span class="w3-tag w3-light-grey w3-small w3-margin-bottom">Games</span>
+    </p>
+    </div>
+  </div>
+     
+<!-- END Introduction Menu -->
+</div>
+
+<!-- END GRID -->
+</div><br>
+
+<!-- END w3-content -->
+</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-dark-grey w3-padding-32 w3-margin-top">
+  <button class="w3-button w3-black w3-disabled w3-padding-large w3-margin-bottom">Previous</button>
+  <button class="w3-button w3-black w3-padding-large w3-margin-bottom">Next »</button>
+  <p>Powered by <a href="https://Instagram.com/the_real_philip617" target="_blank">Philip Smith</a></p>
+</footer>
+</body>
+</html>
